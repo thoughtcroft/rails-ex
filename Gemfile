@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # send logs to stdout
-gem 'rails_stdout_logging'
+# gem 'rails_stdout_logging'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
